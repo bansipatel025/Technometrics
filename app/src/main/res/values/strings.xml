@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Techno Metrics</string>
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="version">App Version :  </string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="detail">Detail</string>
+    <string name="some_error_ocurred">Some error occurred. Please try again!</string>
+    <string name="popularity">Popularity : </string>
+    <string name="release_date">Release Date : </string>
+    <string name="description_details">dsjnghdbfuhbedcujhc edhfbchjnduijv ejhbfv cergervsed</string>
+    <string name="vote_average">Vote Average :</string>
+    <string name="vote_count">Vote Count : </string>
+    <string name="filter">Filter</string>
+    <string name="sort_by">Sort by</string>
+    <string name="popularity_descending">Popularity Descending</string>
+    <string name="popularity_ascending">Popularity Ascending</string>
+    <string name="rating_descending">Rating Descending</string>
+    <string name="rating_ascending">Rating Ascending</string>
+    <string name="release_date_descending">Release Date Descending</string>
+    <string name="release_date_ascending">Release Date Ascending</string>
+    <string name="overview">Overview</string>
+</resources>
